@@ -2,8 +2,15 @@
 ## Hi there, I'm Anamika👋
 
 # 💫 About Me:
-<br>## Hi there, I'm Anamika👋<br><br>I'm a passionate programmer and problem solver, currently exploring the world of C++, web development, and innovative technologies. With a strong interest in real-world impact, I love combining tech with purpose.<br><br>## 💻 About Me<br><br>- *Research & Development Intern at True Companion*  <br>  Working on assistive tech and embedded systems, creating innovative solutions that make lives better.<br><br>- *Tech Enthusiast & Learner*  <br>  Exploring C++, DSA, and backend development with Node.js.<br><br>- *Socially Driven*  <br>  Volunteered with Rise Up Community(NGO) to support education and community initiatives — because tech is best when it empowers others.<br><br>## 🔧 Technologies & Tools<br><br>- *Languages*: C++, Python, C<br>- *Web*: HTML, CSS, JS, React (learning)<br>- *Tools*: Git, GitHub, VS Code, Linux, LaTeX, Overleaf<br>- *CS Fundamentals*: OOPs, OS, DBMS, Architecture<br><br>  Soft Skills<br>  <br>⏳ Time Management | 🔍 Problem Solving | 🔄 Adaptability | 🤝 Team Collaboration<br><br><br>## 🌱 Currently Learning<br><br>- Advanced C++ & STL<br>- DSA for placements & problem solving<br>- Full-Stack Development (MERN stack basics)<br><br>## 🤝 Community & Volunteering<br><br>- Participated in education & awareness drives with NGOs<br>- Worked with underprivileged kids to teach basic tech skills<br>- Believe in empathy, impact, and inclusive growth<br><br>##
-<br> Feel free to explore my projects and connect.<br><br>
+<br>## Hi there, I'm Anamika👋<br><br>I'm a passionate programmer and problem solver, currently exploring the world of C++, web development, and innovative technologies. With a strong interest in real-world impact, I love combining tech with purpose.<br><br>## 💻 About Me<br><br>- *Research & Development Intern at True Companion*  <br>  Working on assistive tech and embedded systems, creating innovative solutions that make lives better.<br><br>- *Tech Enthusiast & Learner*  <br>  Exploring C++, DSA, and backend development with Node.js.<br><br>- *Socially Driven*  <br>  Volunteered with Rise Up Community(NGO) to support education and community initiatives — because tech is best when it empowers others.<br><br>## 🔧 Technologies & Tools<br><br>- *Languages*: C++, Python, C<br>- *Web*: HTML, CSS, JS, React (learning)<br>-
+*Libraries*: TensorFlow, Keras, OpenCV, PyTorch, Ultralytics, Numpy, Pandas, ScikitLearn<br>-*Tools*: Git, GitHub, VS Code, Linux, LaTeX, Jupyter, Google Colab, Overleaf<br>- *CS Fundamentals*: OOPs, OS, DBMS, Architecture<br><br>  Soft Skills<br>  <br>⏳ Time Management | 🔍 Problem Solving | 🔄 Adaptability | 🤝 Team Collaboration<br><br><br>## 🌱 Currently Learning<br><br>- Advanced C++ & STL<br>- DSA for placements & problem solving<br>- Full-Stack Development (MERN stack basics)<br><br>## 🤝 Community & Volunteering<br><br>- Participated in education & awareness drives with NGOs<br>- Worked with underprivileged kids to teach basic tech skills<br>- Believe in empathy, impact, and inclusive growth<br><br>##
+<br> 
+## 📌 Recent Highlights
+- 👩‍💻 Built an AI-powered logo detection system using YOLOv8 and ResNet50 for classification  
+- 🧪 Trained and fine-tuned deep learning models on real vs fake logo images  
+- 📄 Designed a Streamlit UI and integrated it with model inference  
+- 🎓 Successfully completed AI/ML + DL + LLM modules at CDAC in 1-month program
+<br>
 
 
 ## 🌐 Socials:
