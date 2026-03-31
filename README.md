@@ -56,26 +56,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-`C++` `Python` `C`  
-
-### 🤖 AI/ML  
-`Machine Learning` `Deep Learning` `NLP` 
-
-### 👁️ Computer Vision  
-`YOLOv8` `ResNet50` `OpenCV`  
-
-### 🌐 Web  
-`HTML` `CSS` `JavaScript` `React (Learning)`  
-
-### ⚙️ Tools  
-`Git` `GitHub` `VS Code` `Linux` `Streamlit`  
-
----
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ana_mikka22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anamika-pandey-ana) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anamikaP22) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anamika-815) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mikka0788) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamika221105@gmail.com) 
 
@@ -133,6 +113,153 @@
 
 <p align="center">
   <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anamika-pandey-89060228a/)">LinkedIn</a> •
+  <a href="mailto:anamika221105@gmail.com">Email</a>
+</p>
+
+---
+
+⭐ *“Building today to lead tomorrow.”*
+
+<h1 align="center">Hi 👋, I'm Anamika Pandey</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Building Impactful Tech</h3>
+
+<p align="center">
+  <a href="https://anamikas-ai-canvas.lovable.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">💼 LinkedIn</a> •
+  <a href="https://github.com/AnamikaPandey22">💻 GitHub</a>
+</p>
+
+---
+
+## 💫 About Me  
+
+✨ Passionate about becoming a **Software Engineer (SDE)** with a strong edge in **AI/ML**  
+
+💡 I build **real-world projects** combining:
+- 🤖 Intelligence (AI/ML)  
+- 🧠 Problem-solving (DSA)  
+- 🌐 Scalable systems  
+
+🎯 Currently focused on:
+- 📌 Data Structures & Algorithms (C++)  
+- 📌 Full-Stack Development (MERN)  
+- 📌 Generative AI & LLM Applications  
+
+---
+
+## 💼 Experience  
+
+### 🧠 AI Intern — CDAC  
+- Built **speech processing pipelines** using WhisperX & pyannote.audio  
+- Worked on **transcription, alignment & speaker diarization**  
+- Used **IndicTrans2 & Whisper (V2/V3)** for multilingual AI  
+
+### 📊 R&D Intern — True Companion  
+- Cleaned & analyzed datasets for research  
+- Built structured reports using Excel & Google Sheets  
+- Supported **data-driven decision-making**  
+
+---
+
+## 🚀 Projects  
+
+### 🔍 Fake Product Detection System  
+- YOLOv8 + ResNet50 pipeline  
+- Detects **genuine vs counterfeit products**  
+- Deployed using **Streamlit**  
+
+### 🚦 Helmet Detection & License Plate Recognition  
+- YOLOv8 + OCR pipeline  
+- Extracts license plates from images/videos  
+
+### 🌊 Groundwater Prediction System  
+- Built using **Facebook Prophet (26 years dataset)**  
+- Dashboard + chatbot for insights  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://instagram.com/ana_mikka22"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anamika-pandey-ana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinterest.com/anamikaP22"><img src="https://img.shields.io/badge/Pinterest-%23E60023?logo=pinterest&logoColor=white"/></a>
+  <a href="mailto:anamika221105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+
+### 👩‍💻 Languages  
+C++ • Python • C  
+
+### 🌐 Web  
+HTML • CSS • JavaScript  
+
+### 🤖 AI/ML  
+Machine Learning • Deep Learning • NLP • LLMs  
+
+### 👁️ Computer Vision  
+YOLOv8 • OpenCV • ResNet50  
+
+### ⚙️ Tools  
+Git • GitHub • Linux • Streamlit  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnamikaPandey22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=AnamikaPandey22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaPandey22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AnamikaPandey22&icon=5&color=6" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🎓 AI/ML + DL + LLM Training — CDAC  
+- 💯 Solved 500+ DSA Problems  
+- 🥇 Data Science Certification (94/100)  
+
+---
+
+## 🏅 Leadership  
+
+👩‍💼 President — IT Club, Patna Women’s College  
+- Led tech events for **165+ students**  
+
+💡 Ideathon — “We Share”  
+- Built NGO-donor platform concept  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced C++ & STL  
+- DSA for placements  
+- MERN Stack  
+- Generative AI  
+
+---
+
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">LinkedIn</a> •
   <a href="mailto:anamika221105@gmail.com">Email</a>
 </p>
 
