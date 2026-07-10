@@ -3,13 +3,6 @@
 <!--          HERO SECTION          -->
 
 <!-- ============================== -->
-
-<p align="center">
-
-<img src="assets/banner.png" alt="Anamika Pandey Banner" width="100%"/>
-
-</p>
-
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Anamika Pandey
 </h1>
@@ -246,7 +239,7 @@ Forecast groundwater levels using historical datasets.
 
 # 🌐 Let's Connect
 
-<p align="center">
+•
 
 <a href="https://anamikas-ai-canvas.lovable.app">
 Portfolio
