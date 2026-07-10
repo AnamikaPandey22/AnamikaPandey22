@@ -239,27 +239,19 @@ Forecast groundwater levels using historical datasets.
 
 # 🌐 Let's Connect
 
-•
-
-<a href="https://anamikas-ai-canvas.lovable.app">
+• <a href="https://anamikas-ai-canvas.lovable.app">
 Portfolio
 </a>
 
-•
-
-<a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">
+• <a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">
 LinkedIn
 </a>
 
-•
-
-<a href="mailto:anamika221105@gmail.com">
+• <a href="mailto:anamika221105@gmail.com">
 Email
 </a>
 
-•
-
-<a href="https://github.com/AnamikaPandey22">
+• <a href="https://github.com/AnamikaPandey22">
 GitHub
 </a>
 
