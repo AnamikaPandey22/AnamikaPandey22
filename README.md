@@ -1,122 +1,281 @@
-<h1 align="center">Hi 👋, I'm Anamika Pandey</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Building Impactful Tech</h3>
+<!-- ============================== -->
+
+<!--          HERO SECTION          -->
+
+<!-- ============================== -->
 
 <p align="center">
-  <a href="https://anamikas-ai-canvas.lovable.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">💼 LinkedIn</a> •
-  <a href="https://github.com/AnamikaPandey22">💻 GitHub</a>
+
+<img src="assets/banner.png" alt="Anamika Pandey Banner" width="100%"/>
+
+</p>
+
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Anamika Pandey
+</h1>
+
+<h3 align="center">
+Software Developer • AI Engineer • Building Intelligent Applications
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;AI+Engineer;Machine+Learning+Explorer;Computer+Vision+%7C+LLMs+%7C+RAG;Building+AI+That+Solves+Real-World+Problems"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://anamikas-ai-canvas.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:anamika221105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💫 About Me  
+# 💙 About Me
 
-✨ Passionate about becoming a **Software Engineer (SDE)** with a strong edge in **AI/ML**  
+```python
+class AnamikaPandey:
 
-💡 I build **real-world projects** combining:
-- 🤖 Intelligence (AI/ML)  
-- 🧠 Problem-solving (DSA)  
-- 🌐 Scalable systems  
+    role = "Software Developer"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Engineering",
+        "Computer Vision",
+        "Retrieval-Augmented Generation"
+    ]
 
-🎯 Currently focused on:
-- 📌 Data Structures & Algorithms (C++)  
-- 📌 Full-Stack Development (MERN)  
-- 📌 Generative AI & LLM Applications  
+    currently_building = [
+        "AI Applications",
+        "Full-Stack Projects",
+        "Developer Portfolio"
+    ]
 
----
+    motto = "Build things that actually solve problems."
+```
 
-## 💼 Experience  
+I enjoy turning ideas into practical software.
 
-### 🧠 AI Intern — CDAC  
-- Built **speech processing pipelines** using WhisperX & pyannote.audio  
-- Worked on **transcription, alignment & speaker diarization**  
-- Used **IndicTrans2 & Whisper (V2/V3)** for multilingual AI  
+My interests span **AI, Machine Learning, Software Engineering, and Full-Stack Development**, with a strong focus on building applications that combine intelligent models with clean backend systems.
 
-### 📊 R&D Intern — True Companion  
-- Cleaned & analyzed datasets for research  
-- Built structured reports using Excel & Google Sheets  
-- Supported **data-driven decision-making**  
-
----
-
-## 🚀 Projects  
-
-### 🔍 Fake Product Detection System  
-- YOLOv8 + ResNet50 pipeline  
-- Detects **genuine vs counterfeit products**  
-- Deployed using **Streamlit**  
-
-### 🚦 Helmet Detection & License Plate Recognition  
-- YOLOv8 + OCR pipeline  
-- Extracts license plates from images/videos  
-
-### 🌊 Groundwater Prediction System  
-- Built using **Facebook Prophet (26 years dataset)**  
-- Dashboard + chatbot for insights  
+Currently, I'm expanding my software engineering skills while building projects involving **LLMs, RAG pipelines, Computer Vision, and modern AI workflows**.
 
 ---
 
-## 🌐 Connect With Me  
+# 🚀 Featured Projects
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ana_mikka22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anamika-pandey-ana) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anamikaP22) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anamika-815) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mikka0788) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamika221105@gmail.com) 
+<table>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00BCD4.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+<tr>
 
+<td width="50%">
 
-## 📊 GitHub Stats  
+## 🤖 CareerPilot
+
+AI-powered Career Guidance Platform
+
+**Tech**
+
+* Gemini API
+* React
+* Flask
+* ONET Dataset
+* Machine Learning
+
+➡️ Personalized career recommendations using AI.
+
+</td>
+
+<td width="50%">
+
+## 📄 RAG Full Stack
+
+Semantic Document Retrieval Backend
+
+**Tech**
+
+* FastAPI
+* FAISS
+* Sentence Transformers
+* PyPDF
+
+➡️ Upload PDFs and retrieve relevant information using semantic search.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🔍 Fake Product Analyzer
+
+AI-based Counterfeit Product Detection
+
+**Tech**
+
+* YOLOv8
+* ResNet50
+* Streamlit
+
+➡️ Detect genuine and counterfeit products using Computer Vision.
+
+</td>
+
+<td>
+
+## 🌊 Groundwater Forecasting
+
+Forecast groundwater levels using historical datasets.
+
+**Tech**
+
+* Prophet
+* Python
+* Data Visualization
+
+➡️ Time-series prediction with interactive insights.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+## 🧠 AI Intern — C-DAC Patna
+
+* Speech Processing
+* Whisper & WhisperX
+* Speaker Diarization
+* IndicTrans2
+* NLP
+* Deep Learning
+* Large Language Models
+
+---
+
+## 📊 Research & Development Intern — True Companion
+
+* Data Cleaning
+* Data Analysis
+* Research Support
+* Excel & Google Sheets
+* Analytical Reporting
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,mysql"/>
+
+</p>
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+**Also Working With**
+
+`YOLOv8` • `FAISS` • `Sentence Transformers` • `WhisperX` • `Pyannote` • `Transformers` • `Scikit-Learn` • `NumPy` • `Pandas`
+
+### Backend & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 🏆 Leadership & Highlights
+
+✨ President — IT Club, Patna Women's College
+
+🧠 AI Intern — C-DAC Patna
+
+📄 Student Research Project (AI-Based Fake Product Detection)
+
+🚀 Built projects across NLP, Computer Vision, Forecasting, and Semantic Search
+
+💡 Passionate about building software with real-world impact
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnamikaPandey22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=AnamikaPandey22&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnamikaPandey22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnamikaPandey22&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaPandey22&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaPandey22&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 👀 Profile Views  
+# 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AnamikaPandey22&icon=5&color=6" />
+
+<a href="https://anamikas-ai-canvas.lovable.app">
+Portfolio
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/anamika-pandey-89060228a/">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:anamika221105@gmail.com">
+Email
+</a>
+
+•
+
+<a href="https://github.com/AnamikaPandey22">
+GitHub
+</a>
+
 </p>
 
 ---
 
-## 🏆 Achievements  
+<p align="center">
 
-- 🎓 AI/ML + DL + LLM Training — CDAC  
-- 💯 Solved 500+ DSA Problems  
-- 🥇 Data Science Certification (94/100)  
+### ⭐ *"Building intelligent software, one project at a time."*
 
----
-
-## 🏅 Leadership  
-
-👩‍💼 President — IT Club, Patna Women’s College  
-- Led tech events for **165+ students**  
-
-💡 Ideathon — “We Share”  
-- Built NGO-donor platform concept  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced C++ & STL  
-- DSA for placements  
-- MERN Stack  
-- Generative AI  
-
----
-
-⭐ *“Building today to lead tomorrow.”*
+</p>
