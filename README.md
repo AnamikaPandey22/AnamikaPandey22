@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Anamika Pandey</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Building Impactful Tech</h3>
 
