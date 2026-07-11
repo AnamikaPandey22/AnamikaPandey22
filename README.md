@@ -207,7 +207,7 @@ Forecast groundwater levels using historical datasets.
 
 # 🏆 Leadership & Highlights
 
-✨ President — IT Club, Patna Women's College
+✨ President — IT Club, Patna Women's College (2025- 26)
 
 🧠 AI Intern — C-DAC Patna
 
